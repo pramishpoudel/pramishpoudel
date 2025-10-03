@@ -41,7 +41,7 @@
 ## 🤝 Let’s Connect  
 - 📧 Email:pramishpoudel11@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🌐 [https://pramishpoudel.com.np/]👋 Hi there, I'm Pramish Poudel  
+- 🌐 [Portfolio](https://pramishpoudel.com.np) 
 
  
 ✨ *“Dreaming big, working hard, and building the future with AI & innovation.”*  
