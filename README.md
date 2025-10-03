@@ -8,7 +8,8 @@
 ## 🚀 About Me  
 - 📚  IT Assistance officer at Espot Nepal(Newroad,Kathmandu) 
 - 💻 Skilled in Python,JavaScript, Data Science and Web Development (React )  
-- 📊 Data Science Intern @ Sipayala Info Tech   
+- 📊 Data Science Intern @ Sipayala Info Tech
+- 📊 Public Speaking and Presentation @ Nobel PCB learning 
 - 🌍 Interested in research, innovation, and connecting with organizations 
 
 ---
@@ -16,9 +17,9 @@
 ## 🛠️ Tech Skills  
 
 **Languages:** Python  | JavaScript  
-**Data Analysis & Visualization:** Pandas | NumPy | Power BI | Excel  
-**Databases:** MySQL  
-**Frameworks & Tools:** React.js |  FastAPI | Git | PowerPoint  
+**Data Analysis & Visualization:** Pandas | NumPy | Power BI | Excel |Matplotlib|Seaborn<br>
+**Databases:** MySQ<br>
+**Frameworks & Tools:** React.js |  FastAPI | Git | PowerPoint|Pytorch|tensorflow|Scikit-learn 
  
 
 ---
@@ -40,7 +41,7 @@
 ## 🤝 Let’s Connect  
 - 📧 Email:pramishpoudel11@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🌐 [Portfolio Website](# 👋 Hi there, I'm Pramish Poudel  
+- 🌐 [https://pramishpoudel.com.np/]👋 Hi there, I'm Pramish Poudel  
 
  
 ✨ *“Dreaming big, working hard, and building the future with AI & innovation.”*  
