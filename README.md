@@ -18,7 +18,7 @@
 
 **Languages:** Python  | JavaScript  
 **Data Analysis & Visualization:** Pandas | NumPy | Power BI | Excel |Matplotlib|Seaborn<br>
-**Databases:** MySQ<br>
+**Databases:** MySQL<br>
 **Frameworks & Tools:** React.js |  FastAPI | Git | PowerPoint|Pytorch|tensorflow|Scikit-learn 
  
 
