@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - 📚  IT Assistance officer at Espot Nepal(Newroad,Kathmandu) 
-- 💻 Skilled in Python,JavaScript, Data Science and Web Development (React )  
+- 💻 Skilled in Python,JavaScript, Data Science,Web Development (React and fastAPI),HTML,CSS,ML,Docker,CI and CD 
 - 📊 Data Science Intern @ Sipayala Info Tech
 - 📊 Public Speaking and Presentation @ Nobel PCB learning 
 - 🌍 Interested in research, innovation, and connecting with organizations 
