@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Pramish Poudel  
+# 👋 Hi there, I'm Pramish Poudel  ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-username&label=VISITORS&countColor=%23f3722c)
+
 
 💡 Passionate about **Artificial Intelligence, Machine Learning, Robotics, and Startup Innovation**.  
 🎯 My goal is to pursue a **Master’s in AI** and contribute to advanced defense and technology research.  
@@ -42,6 +43,7 @@
 - 📧 Email:pramishpoudel11@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
 - 🌐 [Portfolio](https://pramishpoudel.com.np) 
+ 
 
  
 ✨ *“Dreaming big, working hard, and building the future with AI & innovation.”*  
