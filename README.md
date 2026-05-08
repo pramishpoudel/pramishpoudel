@@ -2,7 +2,7 @@
 
 
 💡 Passionate about **Artificial Intelligence, Machine Learning, Robotics, and Startup Innovation**.  
-🎯 My goal is to pursue a **Master’s in AI** and contribute to advanced defense and technology research.  
+🎯 My goal is to  contribute to advanced defense and technology research.  
 
 ---
 
